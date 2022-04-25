@@ -1,8 +1,5 @@
 ### Hi there 👋, my name is Vlad
 
-Skills: VUE JS / PHP / JS / HTML / CSS
-
-
 
 [![codewars](https://www.codewars.com/users/saliyy/badges/large)](https://www.codewars.com/users/saliyy)   
 
