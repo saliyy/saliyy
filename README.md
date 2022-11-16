@@ -2,7 +2,6 @@
 
 
 [![codewars](https://www.codewars.com/users/saliyy/badges/large)](https://www.codewars.com/users/saliyy)  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=saliyy&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
 
