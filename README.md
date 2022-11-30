@@ -5,5 +5,4 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saliyy)](https://github.com/saliyy/github-readme-stats)
 
